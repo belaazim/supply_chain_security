@@ -30,4 +30,3 @@ jobs:
       with:
         name: spdx-report
         path: spdx.json
-        path: spdx.json
